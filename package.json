@@ -1,0 +1,14 @@
+{
+  "name": "gm_sender",
+  "version": "1.0.0",
+  "description": "Gm Sender is a nodejs script use to send emails using google SMTP. This script use nodemailer to send emails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Asad",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.2.1"
+  }
+}
